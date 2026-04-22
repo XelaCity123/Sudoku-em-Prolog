@@ -93,9 +93,10 @@ O solver foi testado com diferentes níveis de dificuldade:
 
 ---
 
-## 👨‍💻 Autor(es)
+## 👨‍💻 Autores
 
-- [O teu nome]
+- Alexandre Duarte
+- Rafael Costa 
 
 ---
 
